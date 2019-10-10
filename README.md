@@ -1,28 +1,11 @@
+AirCNC - Air Coffee & Code
 <p align="center">
-  <img src="mobile/src/assets/logo@3x.png" />
+  ![ToChat - Login](https://i.imgur.com/EL2f6ne.png)
 </p>
 
 <p align="center">
-Airbnb like (Air Coffee &amp; Code) to booking spots for developers.
-
-<img src="banner.png" alt="project banner"/>
-
->This project was made for study purposes only and comes from Rocketseat's omnistack week crash course #9 with my own modifications
-</p><br/>
-
-<p alt="[ignore]">
-See it in action: https://youtu.be/XO1CqaiJmjA
-
-<br/>
-                
-<blockquote alt="[ignore]">
-  <p>If you want to see <strong>videos played within markdown files on GitHub</strong> and more, install <a href="https://github.com/daltonmenezes/stylish-hub">Stylish-hub</a> extension and <strong>give superpowers for your GitHub</strong>.
-  </p>
-</blockquote>
-
+  ![ToChat - Message](https://i.imgur.com/tFx7xHA.png)
 </p>
-
-<p alt="type:video autoplay" value="https://www.youtube.com/watch?v=XO1CqaiJmjA"></p>
 
 # Stack
 
@@ -50,4 +33,4 @@ See it in action: https://youtu.be/XO1CqaiJmjA
   - \* [check package.json](/server/package.json)
 
 # License
-[MIT License](https://github.com/daltonmenezes/aircnc/blob/master/LICENSE)
+[MIT License](https://github.com/fogeid/ToChat/blob/master/LICENSE)
